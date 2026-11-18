@@ -4,6 +4,8 @@ Cloud Developer in Gothenburg, focused on C#, .NET, Azure and reliable systems.
 
 ## Featured projects
 
+**[Skylock](https://github.com/AlbinCode/Skylock)**: C# security scanner that finds risks and attack paths in Terraform and Bicep. [Live demo](https://albincode.github.io/Skylock/)
+
 **[MarketGrowth](https://github.com/AlbinCode/MarketGrowth)**: Serverless market platform built with Blazor, Azure Functions, Cosmos DB, Key Vault and GitHub Actions.
 
 **[StarCorp](https://github.com/AlbinCode/StarCorp-AlbinVersion)**: E-commerce API in ASP.NET Core with tests, background jobs and an issue-driven workflow.
