@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Abbe
 
-<!--
-**AlbinCode/AlbinCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cloud Developer in Gothenburg, focused on C#, .NET, Azure and reliable systems.
 
-Here are some ideas to get you started:
+## Featured projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[MarketGrowth](https://github.com/AlbinCode/MarketGrowth)**: Serverless market platform built with Blazor, Azure Functions, Cosmos DB, Key Vault and GitHub Actions.
+
+**[StarCorp](https://github.com/AlbinCode/StarCorp-AlbinVersion)**: E-commerce API in ASP.NET Core with tests, background jobs and an issue-driven workflow.
+
+**[.NET on AWS](https://github.com/AlbinCode/CLO24-Inlamningsuppgift2-AlbinStenhoff)**: Container and serverless architectures with Docker Swarm, Lambda, Terraform and CI.
+
+**[Test-driven C#](https://github.com/AlbinCode/TDD-Assignment-Abbe)**: Practical test-driven development with xUnit and NSubstitute.
+
+## Working with
+
+C# | .NET | Azure | AWS | Docker | Kubernetes | Terraform | GitHub Actions
+
+Open to cloud and .NET roles.
