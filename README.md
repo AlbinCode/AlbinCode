@@ -10,9 +10,9 @@ Cloud Developer (.NET) based in Gothenburg, Sweden. I graduated as a Cloud Devel
 
 **[StarCorp](https://github.com/AlbinCode/StarCorp-AlbinVersion)**: E-commerce API in ASP.NET Core with tests, background jobs and an issue-driven workflow.
 
-**[.NET on AWS](https://github.com/AlbinCode/CLO24-Inlamningsuppgift2-AlbinStenhoff)**: Container and serverless architectures with Docker Swarm, Lambda, Terraform and CI.
+**[.NET on AWS](https://github.com/AlbinCode/dotnet-aws-containers-serverless)**: Container and serverless architectures with Docker Swarm, Lambda, Terraform and CI.
 
-**[Test-driven C#](https://github.com/AlbinCode/TDD-Assignment-Abbe)**: Practical test-driven development with xUnit and NSubstitute.
+**[Test-driven C#](https://github.com/AlbinCode/tdd-csharp-xunit)**: Practical test-driven development with xUnit and NSubstitute.
 
 ## Working with
 
