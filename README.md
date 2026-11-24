@@ -1,6 +1,6 @@
-# Hi, I'm Abbe
+# Hi, I'm Albin
 
-Cloud Developer in Gothenburg, focused on C#, .NET, Azure and reliable systems.
+Cloud Developer (.NET) based in Gothenburg, Sweden. I graduated as a Cloud Developer from Campus Mölndal in 2026, after an internship at SQLI where I worked on backend for large-scale e-commerce and built a secure, anonymous feedback app. I enjoy building secure, robust C# backends and automating cloud infrastructure on Azure and AWS.
 
 ## Featured projects
 
@@ -18,4 +18,4 @@ Cloud Developer in Gothenburg, focused on C#, .NET, Azure and reliable systems.
 
 C# | .NET | Azure | AWS | Docker | Kubernetes | Terraform | GitHub Actions
 
-Open to cloud and .NET roles.
+Open to Cloud Developer, Backend and DevOps roles. Reach me on [LinkedIn](https://www.linkedin.com/in/albinstenhoff).
