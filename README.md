@@ -8,11 +8,13 @@ Cloud Developer (.NET) based in Gothenburg, Sweden. I graduated as a Cloud Devel
 
 **[MarketGrowth](https://github.com/AlbinCode/MarketGrowth)**: Serverless market platform built with Blazor, Azure Functions, Cosmos DB, Key Vault and GitHub Actions.
 
-**[StarCorp](https://github.com/AlbinCode/StarCorp-AlbinVersion)**: E-commerce API in ASP.NET Core with tests, background jobs and an issue-driven workflow.
+**[StarCorp](https://github.com/AlbinCode/starcorp-ecommerce-api)**: E-commerce API in ASP.NET Core with tests, background jobs and an issue-driven workflow.
 
 **[.NET on AWS](https://github.com/AlbinCode/dotnet-aws-containers-serverless)**: Container and serverless architectures with Docker Swarm, Lambda, Terraform and CI.
 
 **[Test-driven C#](https://github.com/AlbinCode/tdd-csharp-xunit)**: Practical test-driven development with xUnit and NSubstitute.
+
+**[k8sMiniApp](https://github.com/AlbinCode/k8sMiniApp)**: ASP.NET Core app in a multi-stage Docker image, deployed to Kubernetes.
 
 ## Working with
 
