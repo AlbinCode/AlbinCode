@@ -4,6 +4,8 @@ Cloud Developer (.NET) based in Gothenburg, Sweden. I graduated as a Cloud Devel
 
 ## Featured projects
 
+**[Flagpole](https://github.com/AlbinCode/flagpole)**: Feature flag service in .NET 10 with gradual rollouts and an audit log, with Bicep for Azure Container Apps, private PostgreSQL, Key Vault and managed identity. CI scans the infrastructure with Skylock.
+
 **[Skylock](https://github.com/AlbinCode/Skylock)**: C# security scanner that finds risks and attack paths in Terraform and Bicep. [Live demo](https://albincode.github.io/Skylock/)
 
 **[MarketGrowth](https://github.com/AlbinCode/MarketGrowth)**: Serverless market platform built with Blazor, Azure Functions, Cosmos DB, Key Vault and GitHub Actions.
